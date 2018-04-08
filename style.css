@@ -2,3 +2,8 @@ body{
 	font-family: sans-serif;
 	color:red;
 }
+div img{
+
+	height:450px;
+	width: 450px; 
+}
